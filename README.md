@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Munir (@msuleman42)
-- 👀 I’m interested in robotics, mechanical engineering and computer science
+- 👀 I’m interested in computer science, robotics and mechanical engineering
 - 🌱 I’m currently learning Unity game design
 - 📫 Contact me via email
 
